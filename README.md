@@ -16,6 +16,5 @@
            <li>Geopy.geocoder Nominatim to map addresses to lattitude/longitude</li>
            <li>SKlearn.cluster for KMeans clustering</li>
            <li>Folium for mapping and venues</li>
-           <li>Workaround to show Map on GitHub (Week 3 / Part 3):</li>
-           <li>https://nbviewer.jupyter.org/github/johnhilbun/Coursera_Capstone/blob/main/IBM_Coursera_ADSC_Week3_part_3.ipynb</li>
+           <li>Workaround to show Map on GitHub (Week 3 / Part 3): https://nbviewer.jupyter.org/github/johnhilbun/Coursera_Capstone/blob/main/IBM_Coursera_ADSC_Week3_part_3.ipynb</li>
            <ul>
