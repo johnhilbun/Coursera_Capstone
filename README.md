@@ -1,4 +1,4 @@
-# IBM Applied Data Science Capstone
+## IBM Applied Data Science Capstone
    Part 1 is a report.
    Part 2 is a notebook.
 
