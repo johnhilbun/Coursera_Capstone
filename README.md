@@ -8,7 +8,7 @@ IBM Applied Data Science Capstone - There are two parts:
            <li>https://github.com/johnhilbun/IBM-Data-Science-Professional-Coursera/blob/main/IBM_ADSC_Report_Part_2.pdf</li>
            </ul>
             
- * Part 2 : Segment Toronto, Canada neighborhoods based on name:
+ * Part 2 : Segment Toronto, Canada neighborhoods based on K-Means clustering based on local venues:
            <ul>
            <li>Workaround to show Map on GitHub (Week 3 / Part 3):</li>
            <li>https://nbviewer.jupyter.org/github/johnhilbun/Coursera_Capstone/blob/main/IBM_Coursera_ADSC_Week3_part_3.ipynb</li>
