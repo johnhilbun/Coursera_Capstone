@@ -8,7 +8,7 @@ IBM Applied Data Science Capstone - There are two parts:
            <li>https://github.com/johnhilbun/IBM-Data-Science-Professional-Coursera/blob/main/IBM_ADSC_Report_Part_2.pdf</li>
            </ul>
             
- * Part 2 : Segment Toronto, Canada neighborhoods based on K-Means clustering based on local venues. Uses:
+ * Part 2 : Segment Toronto, Canada neighborhoods using K-Means clustering based on local venues. Uses:
            <ul>
            <li>Postal Codes of Canada from Wikipedia</li>
            <li>Geopy.geocoder Nominatim to map address to lattitude/longitude</li>
