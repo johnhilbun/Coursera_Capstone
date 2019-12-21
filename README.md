@@ -1,5 +1,5 @@
 # Coursera_Capstone
-IBM Applied Data Science Capstone - There are two parts:
+IBM Applied Data Science Capstone
  * Part 1 : Ficticious Drone Delivery company based at Los Angeles, CA heliports. Uses:
            <ul>
            <li> FAA airport/heliport information</li>
