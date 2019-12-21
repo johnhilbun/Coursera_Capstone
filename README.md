@@ -5,8 +5,8 @@
  * Part 1 : Ficticious Drone Delivery company based at several Los Angeles, CA heliports. Uses:
            <ul>
            <li> FAA airport/heliport information</li>
-           <li> FourSquare API to determine nearby locations </li>
-           <li> K-Means clustering to check venue type </li>
+           <li> FourSquare API to determine nearby venues </li>
+           <li> K-Means clustering to check venue types </li>
            <li>https://github.com/johnhilbun/IBM-Data-Science-Professional-Coursera/blob/main/IBM_ADSC_Report_Part_2.pdf</li>
            </ul>
             
