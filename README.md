@@ -11,7 +11,7 @@ IBM Applied Data Science Capstone - There are two parts:
  * Part 2 : Segment Toronto, Canada neighborhoods using K-Means clustering based on local venues. Uses:
            <ul>
            <li>Postal Codes of Canada from Wikipedia</li>
-           <li>Geopy.geocoder Nominatim to map address to lattitude/longitude</li>
+           <li>Geopy.geocoder Nominatim to map addresses to lattitude/longitude</li>
            <li>SKlearn.cluster for KMeans clustering</li>
            <li>Folium for mapping and venues</li>
            <li>Workaround to show Map on GitHub (Week 3 / Part 3):</li>
